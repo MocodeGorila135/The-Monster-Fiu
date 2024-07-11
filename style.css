@@ -1,5 +1,5 @@
 body{
-    background-image: url(imagenes/fondo.png);
+    background-image: url(fondo.png);
     background-position: center;
     background-color: #232839;
     font-family: sans-serif;
@@ -35,7 +35,7 @@ nav a:hover{
 }
 
 .dv-1{
-    background-image: url(imagenes/titulo.png);
+    background-image: url(titulo.png);
     background-position: center;
     background-repeat: no-repeat;
     margin-left: 50px;
